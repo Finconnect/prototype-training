@@ -25,8 +25,9 @@ An administration panel will be created which is only available to certain indiv
 In the provided folder you'll find the designs, fonts, and icons required.
 
 ## Success Criteria
+- Output must be hosted in a publicly-visible link (aws, heroku, github pages, etc.)
 - All expected functionalities must be working as described in the technical specifications.
 - The frontend and backend must be implemented using well-known best patterns and practices.
-- The source code must be source controlled using git.
+- Git must be used to manage source code.
 - The ReadMe.MD file must contain a full description of the project as well as instructions on how to run it.
-- What we're looking for is to see your attention to details, how perfect pixel your front-end is, and how smart your back-end is.
+- What we're looking for is to see your attention to details, how faithful to the design the front-end is, and how smart your back-end is implemented.
